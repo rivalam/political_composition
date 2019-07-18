@@ -1,0 +1,225 @@
+Year,Country,Population,Type,RefugeeCount,PercentCount,gov_right1,gov_cent1,gov_left1,gov_right2,gov_cent2,gov_left2,Right,Center,Left
+1960,Canada,17909009,Refugees (incl. refugee-like situations),48629,0.2715337292,100,0,0,100,0,0,100,0,0
+1960,Sweden,7484656,Refugees (incl. refugee-like situations),26000,0.3473773544,0,0,93.21,0,0,100,0,0,96.605
+1960,United Kingdom,52400000,Refugees (incl. refugee-like situations),167000,0.3187022901,100,0,0,100,0,0,100,0,0
+1960,United States of America,180671000,Refugees (incl. refugee-like situations),500000,0.2767461297,92.31,7.69,0,100,0,0,96.155,3.845,0
+1961,Canada,18271000,Refugees (incl. refugee-like situations),44492,0.2435115757,100,0,0,100,0,0,100,0,0
+1961,Sweden,7519998,Refugees (incl. refugee-like situations),26000,0.3457447728,0,0,92.86,0,0,100,0,0,96.43
+1961,United Kingdom,52800000,Refugees (incl. refugee-like situations),164000,0.3106060606,100,0,0,100,0,0,100,0,0
+1961,United States of America,183691000,Refugees (incl. refugee-like situations),500000,0.2721962426,11.12,88.88,0,5.21,94.79,0,8.165,91.835,0
+1962,Canada,18614000,Refugees (incl. refugee-like situations),12282,0.06598259375,100,0,0,100,0,0,100,0,0
+1962,Sweden,7561588,Refugees (incl. refugee-like situations),26000,0.3438431187,0,0,92.86,0,0,100,0,0,96.43
+1962,United Kingdom,53250000,Refugees (incl. refugee-like situations),160000,0.3004694836,100,0,0,100,0,0,100,0,0
+1962,United States of America,186538000,Refugees (incl. refugee-like situations),500000,0.2680419003,6.67,93.33,0,0,100,0,3.335,96.665,0
+1963,Canada,18964000,Refugees (incl. refugee-like situations),10946,0.05771989032,30.41,69.59,0,30.41,69.59,0,30.41,69.59,0
+1963,Sweden,7604328,Refugees (incl. refugee-like situations),26000,0.3419105541,0,0,92.86,0,0,100,0,0,96.43
+1963,United Kingdom,53650000,Refugees (incl. refugee-like situations),157000,0.2926374651,100,0,0,100,0,0,100,0,0
+1963,United States of America,189242000,Refugees (incl. refugee-like situations),500000,0.2642119614,6.74,93.26,0,0,100,0,3.37,96.63,0
+1964,Canada,19325000,Refugees (incl. refugee-like situations),10178,0.05266752911,0,100,0,0,100,0,0,100,0
+1964,Sweden,7661354,Refugees (incl. refugee-like situations),24000,0.3132605542,0,0,94.59,0,0,100,0,0,97.295
+1964,United Kingdom,54000000,Refugees (incl. refugee-like situations),160000,0.2962962963,79.23,0,20.77,79.23,0,20.77,79.23,0,20.77
+1964,United States of America,191889000,Refugees (incl. refugee-like situations),500000,0.2605673071,7.14,92.86,0,0,100,0,3.57,96.43,0
+1965,Canada,19678000,Refugees (incl. refugee-like situations),9980,0.05071653623,0,100,0,0,100,0,0,100,0
+1965,Sweden,7733853,Refugees (incl. refugee-like situations),22000,0.2844636432,0,0,100,0,0,100,0,0,100
+1965,United Kingdom,54348050,Refugees (incl. refugee-like situations),170000,0.3127987113,0,0,100,0,0,100,0,0,100
+1965,United States of America,194303000,Refugees (incl. refugee-like situations),510000,0.2624766473,14.2,85.8,0,0,100,0,7.1,92.9,0
+1966,Canada,20048000,Refugees (incl. refugee-like situations),10225,0.05100259377,0,100,0,0,100,0,0,100,0
+1966,Sweden,7807797,Refugees (incl. refugee-like situations),20000,0.2561542007,0,0,100,0,0,100,0,0,100
+1966,United Kingdom,54648500,Refugees (incl. refugee-like situations),167000,0.3055893574,0,0,100,0,0,100,0,0,100
+1966,United States of America,196560000,Refugees (incl. refugee-like situations),500000,0.2543752544,18.81,81.19,0,0,100,0,9.405,90.595,0
+1967,Canada,20412000,Refugees (incl. refugee-like situations),9991,0.04894669802,0,100,0,0,100,0,0,100,0
+1967,Sweden,7867931,Refugees (incl. refugee-like situations),18000,0.2287767902,0,0,100,0,0,100,0,0,100
+1967,United Kingdom,54943600,Refugees (incl. refugee-like situations),164000,0.298487904,0,0,100,0,0,100,0,0,100
+1967,United States of America,198712000,Refugees (incl. refugee-like situations),480000,0.2415556182,18.75,81.25,0,0,100,0,9.375,90.625,0
+1968,Canada,20744000,Refugees (incl. refugee-like situations),17950,0.08653104512,0,100,0,0,100,0,0,100,0
+1968,Sweden,7912273,Refugees (incl. refugee-like situations),17000,0.214856085,0,0,100,0,0,100,0,0,100
+1968,United Kingdom,55211700,Refugees (incl. refugee-like situations),161000,0.2916048591,0,0,100,0,0,100,0,0,100
+1968,United States of America,200706000,Refugees (incl. refugee-like situations),498000,0.2481241218,8.11,91.89,0,0,100,0,4.055,95.945,0
+1969,Canada,21028000,Refugees (incl. refugee-like situations),19275,0.09166349629,0,100,0,0,100,0,0,100,0
+1969,Sweden,7968072,Refugees (incl. refugee-like situations),17000,0.2133514858,0,0,100,0,0,100,0,0,100
+1969,United Kingdom,55441750,Refugees (incl. refugee-like situations),162000,0.2921985688,0,0,100,0,0,100,0,0,100
+1969,United States of America,202677000,Refugees (incl. refugee-like situations),500000,0.246697948,94.79,5.21,0,94.79,5.21,0,94.79,5.21,0
+1970,Canada,21324000,Refugees (incl. refugee-like situations),18518,0.08684111799,0,100,0,0,100,0,0,100,0
+1970,Sweden,8042801,Refugees (incl. refugee-like situations),20000,0.2486695866,0,0,100,0,0,100,0,0,100
+1970,United Kingdom,55663250,Refugees (incl. refugee-like situations),162000,0.291035827,53.42,0,46.58,53.42,0,46.58,53.42,0,46.58
+1970,United States of America,205052000,Refugees (incl. refugee-like situations),500000,0.2438405868,100,0,0,100,0,0,100,0,0
+1971,Canada,21645535,Refugees (incl. refugee-like situations),17196,0.07944363584,0,100,0,0,100,0,0,100,0
+1971,Sweden,8098334,Refugees (incl. refugee-like situations),20000,0.2469643756,0,0,100,0,0,100,0,0,100
+1971,United Kingdom,55896223,Refugees (incl. refugee-like situations),150000,0.2683544468,100,0,0,100,0,0,100,0,0
+1971,United States of America,207661000,Refugees (incl. refugee-like situations),530000,0.2552236578,100,0,0,100,0,0,100,0,0
+1972,Canada,21993631,Refugees (incl. refugee-like situations),20933,0.0951775539,0,100,0,0,100,0,0,100,0
+1972,Sweden,8122300,Refugees (incl. refugee-like situations),20000,0.2462356722,0,0,100,0,0,100,0,0,100
+1972,United Kingdom,56086065,Refugees (incl. refugee-like situations),150000,0.2674461116,100,0,0,100,0,0,100,0,0
+1972,United States of America,209896000,Refugees (incl. refugee-like situations),530000,0.252506003,100,0,0,100,0,0,100,0,0
+1973,Canada,22369408,Refugees (incl. refugee-like situations),13358,0.05971548286,0,100,0,0,100,0,0,100,0
+1973,Sweden,8136312,Refugees (incl. refugee-like situations),20000,0.2458116159,0,0,100,0,0,100,0,0,100
+1973,United Kingdom,56194527,Refugees (incl. refugee-like situations),150000,0.2669299094,100,0,0,100,0,0,100,0,0
+1973,United States of America,211909000,Refugees (incl. refugee-like situations),530000,0.2501073574,93.48,6.52,0,100,0,0,96.74,3.26,0
+1974,Canada,22774087,Refugees (incl. refugee-like situations),11410,0.05010080097,0,100,0,0,100,0,0,100,0
+1974,Sweden,8159955,Refugees (incl. refugee-like situations),20000,0.2450993909,0,0,100,0,0,100,0,0,100
+1974,United Kingdom,56229974,Refugees (incl. refugee-like situations),155500,0.2765428986,17.26,0,82.74,17.26,0,82.74,17.26,0,82.74
+1974,United States of America,213854000,Refugees (incl. refugee-like situations),530000,0.2478326335,92.64,7.36,0,100,0,0,96.32,3.68,0
+1975,Canada,23209000,Refugees (incl. refugee-like situations),16349,0.07044250075,0,100,0,0,100,0,0,100,0
+1975,Sweden,8192437,Refugees (incl. refugee-like situations),20000,0.2441276021,0,0,100,0,0,100,0,0,100
+1975,United Kingdom,56225800,Refugees (incl. refugee-like situations),153000,0.2721170708,0,0,100,0,0,100,0,0,100
+1975,United States of America,215973000,Refugees (incl. refugee-like situations),530000,0.2454010455,82.32,17.68,0,100,0,0,91.16,8.84,0
+1976,Canada,23518000,Refugees (incl. refugee-like situations),27387,0.1164512288,0,100,0,0,100,0,0,100,0
+1976,Sweden,8222286,Refugees (incl. refugee-like situations),20000,0.2432413565,12.16,10.94,75.68,12.72,11.59,75.68,12.44,11.265,75.68
+1976,United Kingdom,56211968,Refugees (incl. refugee-like situations),153000,0.2721840303,0,0,100,0,0,100,0,0,100
+1976,United States of America,218035000,Refugees (incl. refugee-like situations),500000,0.2293209806,76.92,23.08,0,100,0,0,88.46,11.54,0
+1977,Canada,23796000,Refugees (incl. refugee-like situations),29537,0.1241259035,0,100,0,0,100,0,0,100,0
+1977,Sweden,8251540,Refugees (incl. refugee-like situations),20000,0.2423789983,50,45,0,52.33,47.67,0,51.165,46.335,0
+1977,United Kingdom,56193492,Refugees (incl. refugee-like situations),148000,0.2633756948,0,0,100,0,0,100,0,0,100
+1977,United States of America,220239000,Refugees (incl. refugee-like situations),684700,0.3108895336,10.78,89.22,0,5.21,94.79,0,7.995,92.005,0
+1978,Canada,24036000,Refugees (incl. refugee-like situations),31295,0.1302005325,0,100,0,0,100,0,0,100,0
+1978,Sweden,8275599,Refugees (incl. refugee-like situations),20000,0.2416743489,59.81,35.14,0,62.77,37.23,0,61.29,36.185,0
+1978,United Kingdom,56196504,Refugees (incl. refugee-like situations),150000,0.2669205188,0,0,100,0,0,100,0,0,100
+1978,United States of America,222585000,Refugees (incl. refugee-like situations),734000,0.3297616641,7.14,92.86,0,0,100,0,3.57,96.43,0
+1979,Canada,24277000,Refugees (incl. refugee-like situations),57913,0.2385508918,57.81,42.19,0,57.81,42.19,0,57.81,42.19,0
+1979,Sweden,8293678,Refugees (incl. refugee-like situations),20000,0.2411475343,87.45,7.4,0,91.89,8.11,0,89.67,7.755,0
+1979,United Kingdom,56246951,Refugees (incl. refugee-like situations),146000,0.2595696254,66.03,0,33.97,66.03,0,33.97,66.03,0,33.97
+1979,United States of America,225055000,Refugees (incl. refugee-like situations),734000,0.3261424985,4.6,95.4,0,0,100,0,2.3,97.7,0
+1980,Canada,24593000,Refugees (incl. refugee-like situations),92679,0.3768511365,16.94,83.06,0,16.94,83.06,0,16.94,83.06,0
+1980,Sweden,8310531,Refugees (incl. refugee-like situations),20000,0.2406585091,61.9,33.33,0,63.47,36.53,0,62.685,34.93,0
+1980,United Kingdom,56314216,Refugees (incl. refugee-like situations),148000,0.2628110813,100,0,0,100,0,0,100,0,0
+1980,United States of America,227225000,Refugees (incl. refugee-like situations),403684,0.1776582682,0,100,0,0,100,0,0,100,0
+1981,Canada,24900000,Refugees (incl. refugee-like situations),96415,0.3872088353,0,100,0,0,100,0,0,100,0
+1981,Sweden,8320503,Refugees (incl. refugee-like situations),20000,0.2403700834,47.78,46.97,0,47.43,52.57,0,47.605,49.77,0
+1981,United Kingdom,56333829,Refugees (incl. refugee-like situations),146000,0.2591693172,100,0,0,100,0,0,100,0,0
+1981,United States of America,229466000,Refugees (incl. refugee-like situations),537375,0.2341850209,94.79,5.21,0,94.79,5.21,0,94.79,5.21,0
+1982,Canada,25202000,Refugees (incl. refugee-like situations),107591,0.4269145306,0,100,0,0,100,0,0,100,0
+1982,Sweden,8325263,Refugees (incl. refugee-like situations),20000,0.2402326509,29.83,42.62,23.29,28.64,48.08,23.29,29.235,45.35,23.29
+1982,United Kingdom,56313641,Refugees (incl. refugee-like situations),143000,0.2539349214,100,0,0,100,0,0,100,0,0
+1982,United States of America,231664000,Refugees (incl. refugee-like situations),620257,0.2677399164,100,0,0,100,0,0,100,0,0
+1983,Canada,25456000,Refugees (incl. refugee-like situations),120947,0.4751217788,0,100,0,0,100,0,0,100,0
+1983,Sweden,8329033,Refugees (incl. refugee-like situations),43000,0.5162664141,0,0,100,0,0,100,0,0,100
+1983,United Kingdom,56332848,Refugees (incl. refugee-like situations),140000,0.2485228512,100,0,0,100,0,0,100,0,0
+1983,United States of America,233792000,Refugees (incl. refugee-like situations),655532,0.2803911169,100,0,0,100,0,0,100,0,0
+1984,Canada,25702000,Refugees (incl. refugee-like situations),112966,0.4395222162,28.96,71.04,0,28.96,71.04,0,28.96,71.04,0
+1984,Sweden,8336605,Refugees (incl. refugee-like situations),90600,1.086773333,0,0,100,0,0,100,0,0,100
+1984,United Kingdom,56422072,Refugees (incl. refugee-like situations),135000,0.2392680652,100,0,0,100,0,0,100,0,0
+1984,United States of America,235825000,Refugees (incl. refugee-like situations),626909,0.2658365313,100,0,0,100,0,0,100,0,0
+1985,Canada,25942000,Refugees (incl. refugee-like situations),92194,0.3553850898,100,0,0,100,0,0,100,0,0
+1985,Sweden,8350386,Refugees (incl. refugee-like situations),90600,1.084979784,0,0,100,0,0,100,0,0,100
+1985,United Kingdom,56550268,Refugees (incl. refugee-like situations),135000,0.2387256591,100,0,0,100,0,0,100,0,0
+1985,United States of America,237924000,Refugees (incl. refugee-like situations),492806,0.2071274861,100,0,0,100,0,0,100,0,0
+1986,Canada,26204000,Refugees (incl. refugee-like situations),98743,0.376824149,100,0,0,100,0,0,100,0,0
+1986,Sweden,8369829,Refugees (incl. refugee-like situations),120000,1.433721047,0,0,100,0,0,100,0,0,100
+1986,United Kingdom,56681396,Refugees (incl. refugee-like situations),100000,0.1764247303,100,0,0,100,0,0,100,0,0
+1986,United States of America,240133000,Refugees (incl. refugee-like situations),398633,0.1660050888,100,0,0,100,0,0,100,0,0
+1987,Canada,26550000,Refugees (incl. refugee-like situations),104843,0.3948888889,100,0,0,100,0,0,100,0,0
+1987,Sweden,8397804,Refugees (incl. refugee-like situations),130000,1.548023745,0,0,100,0,0,100,0,0,100
+1987,United Kingdom,56802050,Refugees (incl. refugee-like situations),100000,0.1760499841,100,0,0,100,0,0,100,0,0
+1987,United States of America,242289000,Refugees (incl. refugee-like situations),365726,0.1509461841,100,0,0,100,0,0,100,0,0
+1988,Canada,26895000,Refugees (incl. refugee-like situations),116434,0.4329206172,100,0,0,100,0,0,100,0,0
+1988,Sweden,8436489,Refugees (incl. refugee-like situations),139783,1.656885939,0,0,100,0,0,100,0,0,100
+1988,United Kingdom,56928327,Refugees (incl. refugee-like situations),39518,0.0694171111,100,0,0,100,0,0,100,0,0
+1988,United States of America,244499000,Refugees (incl. refugee-like situations),377771,0.1545081984,100,0,0,100,0,0,100,0,0
+1989,Canada,27379000,Refugees (incl. refugee-like situations),135752,0.4958252675,100,0,0,100,0,0,100,0,0
+1989,Sweden,8492964,Refugees (incl. refugee-like situations),139783,1.645868274,0,0,100,0,0,100,0,0,100
+1989,United Kingdom,57076711,Refugees (incl. refugee-like situations),46017,0.08062307585,100,0,0,100,0,0,100,0,0
+1989,United States of America,246819000,Refugees (incl. refugee-like situations),411498,0.1667205523,100,0,0,100,0,0,100,0,0
+1990,Canada,27791000,Refugees (incl. refugee-like situations),154761,0.5568745277,100,0,0,100,0,0,100,0,0
+1990,Sweden,8558835,Refugees (incl. refugee-like situations),109663,1.281284193,0,0,100,0,0,100,0,0,100
+1990,United Kingdom,57247586,Refugees (incl. refugee-like situations),43632,0.07621631417,100,0,0,100,0,0,100,0,0
+1990,United States of America,249623000,Refugees (incl. refugee-like situations),464887,0.1862356434,100,0,0,100,0,0,100,0,0
+1991,Canada,28171682,Refugees (incl. refugee-like situations),170916,0.6066943394,100,0,0,100,0,0,100,0,0
+1991,Sweden,8617375,Refugees (incl. refugee-like situations),248428,2.882873265,15.26,8.22,75.34,16.4,8.25,75.34,15.83,8.235,75.34
+1991,United Kingdom,57424897,Refugees (incl. refugee-like situations),43371,0.07552647417,100,0,0,100,0,0,100,0,0
+1991,United States of America,252981000,Refugees (incl. refugee-like situations),513882,0.2031306699,100,0,0,100,0,0,100,0,0
+1992,Canada,28519597,Refugees (incl. refugee-like situations),183723,0.6441991449,100,0,0,100,0,0,100,0,0
+1992,Sweden,8668067,Refugees (incl. refugee-like situations),131073,1.512136443,65,30,0,66.53,33.47,0,65.765,31.735,0
+1992,United Kingdom,57580402,Refugees (incl. refugee-like situations),64726,0.1124097744,100,0,0,100,0,0,100,0,0
+1992,United States of America,256514000,Refugees (incl. refugee-like situations),579952,0.2260898041,100,0,0,100,0,0,100,0,0
+1993,Canada,28833410,Refugees (incl. refugee-like situations),183241,0.6355162293,84.11,15.89,0,84.11,15.89,0,84.11,15.89,0
+1993,Sweden,8718561,Refugees (incl. refugee-like situations),162402,1.862715648,61.9,33.33,0,66.53,33.47,0,64.215,33.4,0
+1993,United Kingdom,57718614,Refugees (incl. refugee-like situations),80230,0.1390019518,100,0,0,100,0,0,100,0,0
+1993,United States of America,259919000,Refugees (incl. refugee-like situations),623069,0.239716604,5.21,94.79,0,5.21,94.79,0,5.21,94.79,0
+1994,Canada,29111906,Refugees (incl. refugee-like situations),186563,0.6408477686,0,100,0,0,100,0,0,100,0
+1994,Sweden,8780745,Refugees (incl. refugee-like situations),200791,2.286719407,47.15,25.39,23.84,50.67,25.49,23.84,48.91,25.44,23.84
+1994,United Kingdom,57865745,Refugees (incl. refugee-like situations),85160,0.1471682426,100,0,0,100,0,0,100,0,0
+1994,United States of America,263126000,Refugees (incl. refugee-like situations),631051,0.2398284472,0,100,0,0,100,0,0,100,0
+1995,Canada,29354000,Refugees (incl. refugee-like situations),152125,0.5182428289,0,100,0,0,100,0,0,100,0
+1995,Sweden,8826939,Refugees (incl. refugee-like situations),199212,2.256863903,0,0,100,0,0,100,0,0,100
+1995,United Kingdom,58019030,Refugees (incl. refugee-like situations),90909,0.1566882452,100,0,0,100,0,0,100,0,0
+1995,United States of America,266278000,Refugees (incl. refugee-like situations),623294,0.2340764164,0,100,0,0,100,0,0,100,0
+1996,Canada,29671900,Refugees (incl. refugee-like situations),138435,0.4665525295,0,100,0,0,100,0,0,100,0
+1996,Sweden,8840998,Refugees (incl. refugee-like situations),191171,2.162323756,0,0,100,0,0,100,0,0,100
+1996,United Kingdom,58166950,Refugees (incl. refugee-like situations),98577,0.1694725269,100,0,0,100,0,0,100,0,0
+1996,United States of America,269394000,Refugees (incl. refugee-like situations),607024,0.2253294431,0,100,0,0,100,0,0,100,0
+1997,Canada,29987200,Refugees (incl. refugee-like situations),125184,0.4174581155,0,100,0,0,100,0,0,100,0
+1997,Sweden,8846062,Refugees (incl. refugee-like situations),186725,2.110826264,0,0,100,0,0,100,0,0,100
+1997,United Kingdom,58316954,Refugees (incl. refugee-like situations),107933,0.1850799683,33.15,0,66.85,33.15,0,66.85,33.15,0,66.85
+1997,United States of America,272657000,Refugees (incl. refugee-like situations),563837,0.2067935171,5.27,94.73,0,0,100,0,2.635,97.365,0
+1998,Canada,30247900,Refugees (incl. refugee-like situations),119371,0.3946422727,0,100,0,0,100,0,0,100,0
+1998,Sweden,8850974,Refugees (incl. refugee-like situations),178795,2.020060165,0,0,100,0,0,100,0,0,100
+1998,United Kingdom,58487141,Refugees (incl. refugee-like situations),121716,0.2081072829,0,0,100,0,0,100,0,0,100
+1998,United States of America,275854000,Refugees (incl. refugee-like situations),533969,0.1935694244,5.56,94.44,0,0,100,0,2.78,97.22,0
+1999,Canada,30499200,Refugees (incl. refugee-like situations),123316,0.4043253594,0,100,0,0,100,0,0,100,0
+1999,Sweden,8857874,Refugees (incl. refugee-like situations),159513,1.800804572,0,0,100,0,0,100,0,0,100
+1999,United Kingdom,58682466,Refugees (incl. refugee-like situations),148922,0.2537759746,0,0,100,0,0,100,0,0,100
+1999,United States of America,279040000,Refugees (incl. refugee-like situations),521143,0.1867628297,5.56,94.44,0,0,100,0,2.78,97.22,0
+2000,Canada,30769700,Refugees (incl. refugee-like situations),126991,0.4127144561,0,100,0,0,100,0,0,100,0
+2000,Sweden,8872109,Refugees (incl. refugee-like situations),157220,1.772070203,0,0,100,0,0,100,0,0,100
+2000,United Kingdom,58892514,Refugees (incl. refugee-like situations),186248,0.3162507208,0,0,100,0,0,100,0,0,100
+2000,United States of America,282162411,Refugees (incl. refugee-like situations),508222,0.1801168335,5.56,94.44,0,0,100,0,2.78,97.22,0
+2001,Canada,31081900,Refugees (incl. refugee-like situations),129224,0.4157532197,0,100,0,0,100,0,0,100,0
+2001,Sweden,8895960,Refugees (incl. refugee-like situations),146491,1.646713789,0,0,100,0,0,100,0,0,100
+2001,United Kingdom,59119673,Refugees (incl. refugee-like situations),233389,0.3947738344,0,0,100,0,0,100,0,0,100
+2001,United States of America,284968955,Refugees (incl. refugee-like situations),1024280,0.3594356445,89.82,10.18,0,94.79,5.21,0,92.305,7.695,0
+2002,Canada,31362000,Refugees (incl. refugee-like situations),129950,0.4143549519,0,100,0,0,100,0,0,100,0
+2002,Sweden,8924958,Refugees (incl. refugee-like situations),142193,1.593206377,0,0,100,0,0,100,0,0,100
+2002,United Kingdom,59370479,Refugees (incl. refugee-like situations),260687,0.4390852228,0,0,100,0,0,100,0,0,100
+2002,United States of America,287625193,Refugees (incl. refugee-like situations),485171,0.1686816773,94.44,5.56,0,100,0,0,97.22,2.78,0
+2003,Canada,31676000,Refugees (incl. refugee-like situations),133094,0.4201730016,0,100,0,0,100,0,0,100,0
+2003,Sweden,8958229,Refugees (incl. refugee-like situations),112167,1.252111327,0,0,100,0,0,100,0,0,100
+2003,United Kingdom,59647577,Refugees (incl. refugee-like situations),276521,0.4635913375,0,0,100,0,0,100,0,0,100
+2003,United States of America,290107933,Refugees (incl. refugee-like situations),305831,0.1054197301,94.72,5.28,0,100,0,0,97.36,2.64,0
+2004,Canada,31995000,Refugees (incl. refugee-like situations),141398,0.4419378028,0,100,0,0,100,0,0,100,0
+2004,Sweden,8993531,Refugees (incl. refugee-like situations),142913,1.589064406,0,0,100,0,0,100,0,0,100
+2004,United Kingdom,59987905,Refugees (incl. refugee-like situations),298844,0.4981737569,0,0,100,0,0,100,0,0,100
+2004,United States of America,292805298,Refugees (incl. refugee-like situations),420858,0.143733055,94.74,5.26,0,100,0,0,97.37,2.63,0
+2005,Canada,32312000,Refugees (incl. refugee-like situations),14171,0.04385677148,0,100,0,0,100,0,0,100,0
+2005,Sweden,9029572,Refugees (incl. refugee-like situations),74915,0.8296628013,0,0,100,0,0,100,0,0,100
+2005,United Kingdom,60401206,Refugees (incl. refugee-like situations),303181,0.5019452757,0,0,100,0,0,100,0,0,100
+2005,United States of America,295516599,Refugees (incl. refugee-like situations),379340,0.1283650398,95.42,4.58,0,100,0,0,97.71,2.29,0
+2006,Canada,32570505,Refugees (incl. refugee-like situations),151827,0.4661487441,90.14,9.86,0,90.14,9.86,0,90.14,9.86,0
+2006,Sweden,9080505,Refugees (incl. refugee-like situations),79913,0.8800501734,16.44,7.67,75.89,16.92,7.19,75.89,16.68,7.43,75.89
+2006,United Kingdom,60846820,Refugees (incl. refugee-like situations),301556,0.4955986196,0,0,100,0,0,100,0,0,100
+2006,United States of America,298379912,Refugees (incl. refugee-like situations),843490,0.2826899419,96.61,3.39,0,100,0,0,98.305,1.695,0
+2007,Canada,32887928,Refugees (incl. refugee-like situations),175741,0.5343632472,100,0,0,100,0,0,100,0,0
+2007,Sweden,9148092,Refugees (incl. refugee-like situations),75078,0.8206957254,68.18,31.82,0,70.2,29.8,0,69.19,30.81,0
+2007,United Kingdom,61322463,Refugees (incl. refugee-like situations),299718,0.4887572764,0,0,100,0,0,100,0,0,100
+2007,United States of America,301231207,Refugees (incl. refugee-like situations),281216,0.09335553338,100,0,0,100,0,0,100,0,0
+2008,Canada,33245773,Refugees (incl. refugee-like situations),173651,0.5223250487,100,0,0,100,0,0,100,0,0
+2008,Sweden,9219637,Refugees (incl. refugee-like situations),77038,0.8355860431,68.18,31.82,0,70.2,29.8,0,69.19,30.81,0
+2008,United Kingdom,61806995,Refugees (incl. refugee-like situations),292097,0.4725953753,0,0,100,0,0,100,0,0,100
+2008,United States of America,304093966,Refugees (incl. refugee-like situations),279549,0.09192849292,100,0,0,100,0,0,100,0,0
+2009,Canada,33628571,Refugees (incl. refugee-like situations),169434,0.5038394287,100,0,0,100,0,0,100,0,0
+2009,Sweden,9298515,Refugees (incl. refugee-like situations),81356,0.8749354064,68.18,31.82,0,70.2,29.8,0,69.19,30.81,0
+2009,United Kingdom,62276270,Refugees (incl. refugee-like situations),269363,0.4325291158,0,0,100,0,0,100,0,0,100
+2009,United States of America,306771529,Refugees (incl. refugee-like situations),275459,0.08979288296,16.36,83.64,0,5.21,94.79,0,10.785,89.215,0
+2010,Canada,34005274,Refugees (incl. refugee-like situations),165549,0.4868333071,100,0,0,100,0,0,100,0,0
+2010,Sweden,9378126,Refugees (incl. refugee-like situations),82629,0.8810822119,68.93,31.07,0,71.78,28.22,0,70.355,29.645,0
+2010,United Kingdom,62766365,Refugees (incl. refugee-like situations),238150,0.3794229601,62.19,0,37.81,62.19,0,37.81,62.19,0,37.81
+2010,United States of America,309348193,Refugees (incl. refugee-like situations),269453,0.08710346661,11.76,88.24,0,0,100,0,5.88,94.12,0
+2011,Canada,34342780,Refugees (incl. refugee-like situations),164883,0.4801096475,100,0,0,100,0,0,100,0,0
+2011,Sweden,9449213,Refugees (incl. refugee-like situations),86615,0.9166371845,70.83,29.17,0,75.81,24.19,0,73.32,26.68,0
+2011,United Kingdom,63258918,Refugees (incl. refugee-like situations),193510,0.3059015331,100,0,0,100,0,0,100,0,0
+2011,United States of America,311663358,Refugees (incl. refugee-like situations),264763,0.08495159704,8.8,91.2,0,0,100,0,4.4,95.6,0
+2012,Canada,34750545,Refugees (incl. refugee-like situations),163756,0.4712328972,100,0,0,100,0,0,100,0,0
+2012,Sweden,9519374,Refugees (incl. refugee-like situations),92872,0.975610371,70.83,29.17,0,75.81,24.19,0,73.32,26.68,0
+2012,United Kingdom,63700300,Refugees (incl. refugee-like situations),149799,0.2351621578,100,0,0,100,0,0,100,0,0
+2012,United States of America,313998379,Refugees (incl. refugee-like situations),262023,0.08344724608,5.88,94.12,0,0,100,0,2.94,97.06,0
+2013,Canada,35155451,Refugees (incl. refugee-like situations),160349,0.4561141884,100,0,0,100,0,0,100,0,0
+2013,Sweden,9600379,Refugees (incl. refugee-like situations),10499,0.1093602659,70.83,29.17,0,75.81,24.19,0,73.32,26.68,0
+2013,United Kingdom,64128226,Refugees (incl. refugee-like situations),126055,0.1965671092,100,0,0,100,0,0,100,0,0
+2013,United States of America,316204908,Refugees (incl. refugee-like situations),263662,0.08338327247,5.88,94.12,0,0,100,0,2.94,97.06,0
+2014,Canada,35544564,Refugees (incl. refugee-like situations),149163,0.4196506673,100,0,0,100,0,0,100,0,0
+2014,Sweden,9696110,Refugees (incl. refugee-like situations),142207,1.466639714,53.76,22.13,24.11,57.53,18.36,24.11,55.645,20.245,24.11
+2014,United Kingdom,64613160,Refugees (incl. refugee-like situations),117234,0.1814398181,100,0,0,100,0,0,100,0,0
+2014,United States of America,318563456,Refugees (incl. refugee-like situations),267222,0.08388344456,8.4,91.6,0,0,100,0,4.2,95.8,0
+2015,Canada,35848610,Refugees (incl. refugee-like situations),135888,0.3790607223,84.11,15.89,0,84.11,15.89,0,84.11,15.89,0
+2015,Sweden,9799186,Refugees (incl. refugee-like situations),152555,1.556812984,0,0,100,0,0,100,0,0,100
+2015,United Kingdom,65128861,Refugees (incl. refugee-like situations),123067,0.1889592388,100,0,0,100,0,0,100,0,0
+2015,United States of America,320896618,Refugees (incl. refugee-like situations),273202,0.08513707676,11.76,88.24,0,0,100,0,5.88,94.12,0
